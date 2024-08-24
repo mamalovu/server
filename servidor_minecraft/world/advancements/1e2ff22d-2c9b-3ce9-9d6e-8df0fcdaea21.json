@@ -1,0 +1,982 @@
+{
+  "cyanwarriorswordsredux:recipes/upgrade_sword_dark": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_earth_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_light": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_thunder_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_beast_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_fire": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/from_abilitytotem": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_wind_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_water_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_water": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "what_gecko:what_the_geck": {
+    "criteria": {
+      "what_the_geck": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_dark_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_mixed_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_fire": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_light_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_thu": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-08-23 22:31:01 +0000",
+      "has_the_recipe": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/smelt_furnace": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_earth": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_meteo": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_ender_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_thunder": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_wind": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_beast": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_ender": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_thunder": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:immersive_caves": {
+    "criteria": {
+      "immersive_caves_0": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_wind": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_fire_essence": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/basic_swords": {
+    "criteria": {
+      "has_item": "2024-08-18 20:48:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-18 20:48:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-18 20:48:44 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:coconino_meadow": "2024-08-22 16:35:44 +0000",
+      "biomeswevegone:black_forest": "2024-08-23 02:09:32 +0000",
+      "biomeswevegone:maple_taiga": "2024-08-19 22:26:04 +0000",
+      "biomeswevegone:frosted_taiga": "2024-08-23 22:41:50 +0000",
+      "biomeswevegone:orchard": "2024-08-23 23:19:01 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-08-24 00:29:24 +0000",
+      "biomeswevegone:dacite_ridges": "2024-08-18 20:48:44 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-08-23 02:08:58 +0000",
+      "biomeswevegone:coniferous_forest": "2024-08-23 22:24:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-18 20:48:44 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:coconino_meadow": "2024-08-22 16:35:44 +0000",
+      "biomeswevegone:black_forest": "2024-08-23 02:09:32 +0000",
+      "biomeswevegone:maple_taiga": "2024-08-19 22:26:04 +0000",
+      "biomeswevegone:frosted_taiga": "2024-08-23 22:41:50 +0000",
+      "biomeswevegone:orchard": "2024-08-23 23:19:01 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-08-24 00:29:24 +0000",
+      "biomeswevegone:dacite_ridges": "2024-08-18 20:48:44 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-08-23 02:08:58 +0000",
+      "biomeswevegone:coniferous_forest": "2024-08-23 22:24:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-18 20:48:44 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-08-19 22:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-19 22:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-19 22:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-08-19 22:25:58 +0000",
+      "minecraft:frozen_river": "2024-08-23 01:08:25 +0000",
+      "quark:glimmering_weald": "2024-08-23 23:19:13 +0000",
+      "minecraft:windswept_hills": "2024-08-23 22:13:11 +0000",
+      "minecraft:beach": "2024-08-19 22:26:13 +0000",
+      "minecraft:river": "2024-08-23 00:43:12 +0000",
+      "minecraft:snowy_plains": "2024-08-23 22:35:20 +0000",
+      "minecraft:snowy_taiga": "2024-08-23 01:06:28 +0000",
+      "minecraft:dripstone_caves": "2024-08-23 23:10:38 +0000",
+      "minecraft:grove": "2024-08-23 22:43:39 +0000",
+      "minecraft:cold_ocean": "2024-08-23 22:01:05 +0000",
+      "minecraft:forest": "2024-08-23 21:41:46 +0000",
+      "minecraft:lush_caves": "2024-08-23 22:32:22 +0000",
+      "minecraft:frozen_ocean": "2024-08-23 22:27:00 +0000",
+      "minecraft:windswept_forest": "2024-08-23 22:13:08 +0000",
+      "minecraft:ocean": "2024-08-23 22:50:02 +0000",
+      "minecraft:snowy_beach": "2024-08-23 22:31:49 +0000",
+      "minecraft:deep_dark": "2024-08-23 23:11:58 +0000",
+      "minecraft:plains": "2024-08-23 21:43:12 +0000"
+    },
+    "done": false
+  },
+  "mores:root": {
+    "criteria": {
+      "crafting_table": "2024-08-19 22:30:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-08-19 22:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-19 22:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-19 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-19 22:31:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop5": "2024-08-21 23:47:25 +0000",
+      "drop3": "2024-08-21 23:47:25 +0000",
+      "drop4": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2024-08-21 23:47:25 +0000"
+    },
+    "done": false
+  },
+  "mores:craft_all_battleaxes": {
+    "criteria": {
+      "obtain_amethyst_battleaxe": "2024-08-21 23:49:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-08-22 17:30:28 +0000",
+      "killed_something": "2024-08-22 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-08-22 16:34:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-08-23 22:21:11 +0000",
+      "minecraft:skeleton": "2024-08-22 22:56:39 +0000",
+      "minecraft:vindicator": "2024-08-23 22:21:03 +0000",
+      "minecraft:spider": "2024-08-22 17:33:45 +0000",
+      "minecraft:witch": "2024-08-23 00:50:29 +0000",
+      "minecraft:husk": "2024-08-22 17:27:10 +0000",
+      "minecraft:cave_spider": "2024-08-23 22:22:31 +0000",
+      "minecraft:silverfish": "2024-08-22 17:34:35 +0000",
+      "minecraft:stray": "2024-08-22 22:56:39 +0000",
+      "minecraft:enderman": "2024-08-23 22:24:08 +0000",
+      "minecraft:zombie": "2024-08-22 17:27:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "specialmobs:waterspider": "2024-08-22 17:34:09 +0000",
+      "specialmobs:sniperskeleton": "2024-08-23 21:59:02 +0000",
+      "specialmobs:cavespider": "2024-08-23 22:22:31 +0000",
+      "specialmobs:witch": "2024-08-23 00:54:20 +0000",
+      "specialmobs:webspider": "2024-08-23 00:43:09 +0000",
+      "specialmobs:spider": "2024-08-23 00:42:24 +0000",
+      "minecraft:creeper": "2024-08-22 17:27:10 +0000",
+      "specialmobs:fishingsilverfish": "2024-08-22 17:36:29 +0000",
+      "specialmobs:strayskeleton": "2024-08-23 01:08:05 +0000",
+      "specialmobs:giantskeleton": "2024-08-23 22:42:21 +0000",
+      "specialmobs:fishingzombie": "2024-08-23 00:15:09 +0000",
+      "minecraft:pillager": "2024-08-23 22:21:11 +0000",
+      "specialmobs:giantspider": "2024-08-23 00:50:01 +0000",
+      "specialmobs:plaguezombie": "2024-08-22 22:59:09 +0000",
+      "specialmobs:silverfish": "2024-08-22 17:34:35 +0000",
+      "specialmobs:enderman": "2024-08-23 22:24:08 +0000",
+      "specialmobs:babyspider": "2024-08-23 00:50:53 +0000",
+      "specialmobs:zombie": "2024-08-22 17:27:10 +0000",
+      "specialmobs:desertcavespider": "2024-08-23 00:53:34 +0000",
+      "specialmobs:frozenzombie": "2024-08-23 22:25:35 +0000",
+      "minecraft:vindicator": "2024-08-23 22:21:03 +0000",
+      "specialmobs:skeleton": "2024-08-22 22:56:39 +0000",
+      "specialmobs:madscientistzombie": "2024-08-23 00:51:58 +0000",
+      "specialmobs:witchspider": "2024-08-22 17:33:45 +0000",
+      "specialmobs:wildswitch": "2024-08-23 00:50:29 +0000"
+    },
+    "done": false
+  },
+  "mores:obtain_cobalt_ore": {
+    "criteria": {
+      "obtain_cobalt_ore": "2024-08-22 17:28:25 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_silver_ore": {
+    "criteria": {
+      "obtain_silver_ore": "2024-08-22 17:28:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-08-22 17:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-08-23 00:33:53 +0000",
+      "pumpkin_pie": "2024-08-23 22:22:08 +0000",
+      "bread": "2024-08-23 00:30:06 +0000",
+      "rotten_flesh": "2024-08-22 17:31:14 +0000",
+      "suspicious_stew": "2024-08-23 22:16:00 +0000",
+      "beetroot": "2024-08-23 00:33:00 +0000",
+      "cod": "2024-08-23 00:16:56 +0000",
+      "carrot": "2024-08-23 22:49:04 +0000"
+    },
+    "done": false
+  },
+  "mores:obtain_emerald": {
+    "criteria": {
+      "obtain_topaz_gem": "2024-08-22 17:33:47 +0000"
+    },
+    "done": true
+  },
+  "depthcrawler:ghostofcarcosachieve": {
+    "criteria": {
+      "ghostofcarcosachieve": "2024-08-22 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_tin_ore": {
+    "criteria": {
+      "obtain_tin_ore": "2024-08-22 17:41:11 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_all": {
+    "criteria": {
+      "obtain_cobalt_ingot": "2024-08-23 00:15:47 +0000",
+      "obtain_topaz_gem": "2024-08-23 00:27:10 +0000",
+      "obtain_tourmaline": "2024-08-23 00:29:24 +0000",
+      "obtain_sapphire_gem": "2024-08-23 00:46:40 +0000"
+    },
+    "done": false
+  },
+  "mores:smelt_more": {
+    "criteria": {
+      "smelt_cobalt_ore": "2024-08-23 00:15:47 +0000",
+      "smelt_copper_ore": "2024-08-23 21:40:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-23 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "mores:acquire_hardware": {
+    "criteria": {
+      "iron": "2024-08-23 00:17:44 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2024-08-23 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2024-08-23 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:it_sparkles": {
+    "criteria": {
+      "it_sparkles_0": "2024-08-23 00:22:33 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_topaz": {
+    "criteria": {
+      "obtain_topaz_gem": "2024-08-23 00:27:10 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/sword_handle": {
+    "criteria": {
+      "has_item": "2024-08-23 00:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-23 00:29:00 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_tourmaline": {
+    "criteria": {
+      "obtain_tourmaline_gem": "2024-08-23 00:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-08-23 00:29:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2024-08-23 00:33:12 +0000",
+      "golden_apple": "2024-08-23 23:48:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-08-23 00:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-23 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_sapphire": {
+    "criteria": {
+      "obtain_sapphire_gem": "2024-08-23 00:46:40 +0000"
+    },
+    "done": true
+  },
+  "depthcrawler:deepkill": {
+    "criteria": {
+      "deepkill": "2024-08-23 00:50:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2024-08-23 00:52:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-08-23 02:11:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-08-23 22:41:30 +0000",
+      "opened_chest": "2024-08-23 02:11:28 +0000"
+    },
+    "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-08-23 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-08-23 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:cyanwarriorswords/removing_dents": {
+    "criteria": {
+      "really_rad": "2024-08-23 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:cyanwarriorswords/left_edge": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-23 02:15:52 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:cyanwarriorswords/root": {
+    "criteria": {
+      "crafting_table": "2024-08-23 02:15:52 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:cyanwarriorswords/something_else": {
+    "criteria": {
+      "really_rad": "2024-08-23 02:18:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-08-23 21:30:56 +0000",
+      "killed": "2024-08-23 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-08-23 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-08-23 21:55:42 +0000"
+    },
+    "done": true
+  },
+  "depthcrawler:bluekill": {
+    "criteria": {
+      "bluekill": "2024-08-23 21:56:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-08-23 22:01:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-08-23 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "voidscape:root": {
+    "criteria": {
+      "in_void": "2024-08-23 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "immersivecaves:hrrrm": {
+    "criteria": {
+      "hrrrm_0": "2024-08-23 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2024-08-24 00:30:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-08-23 22:21:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-08-23 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:cyanwarriorswords/the_more": {
+    "criteria": {
+      "really_rad": "2024-08-23 23:56:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "immersivecaves:is_this_real": {
+    "criteria": {
+      "is_this_real_0": "2024-08-23 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_full_ruby_gear": {
+    "criteria": {
+      "craft_ruby_leggings": "2024-08-23 23:23:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-08-23 23:48:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-08-23 23:20:09 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:the_forgotten_story": {
+    "criteria": {
+      "the_forgotten_story": "2024-08-23 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-08-23 22:35:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "voidscape:armor": {
+    "criteria": {
+      "voidic_helmet": "2024-08-23 22:55:33 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-08-23 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-08-23 23:23:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-08-24 00:33:05 +0000",
+      "!bit13": "2024-08-24 00:33:05 +0000",
+      "!bit14": "2024-08-24 00:33:05 +0000",
+      "!bit11": "2024-08-24 00:33:05 +0000",
+      "!bit12": "2024-08-24 00:33:05 +0000",
+      "!bit10": "2024-08-24 00:33:05 +0000",
+      "!bit8": "2024-08-24 00:33:05 +0000",
+      "!bit7": "2024-08-24 00:33:05 +0000",
+      "!bit6": "2024-08-24 00:33:05 +0000",
+      "!bit5": "2024-08-24 00:33:05 +0000",
+      "!bit4": "2024-08-24 00:33:05 +0000",
+      "bit9": "2024-08-24 00:33:05 +0000",
+      "bit3": "2024-08-24 00:33:05 +0000",
+      "bit1": "2024-08-24 00:33:05 +0000",
+      "bit2": "2024-08-24 00:33:05 +0000",
+      "bit0": "2024-08-24 00:33:05 +0000",
+      "target": "2024-08-24 00:33:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-08-23 23:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-08-24 00:22:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "mores:eat_cobalt_apple": {
+    "criteria": {
+      "requirement": "2024-08-23 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "depthcrawler:neverbelieveyou": {
+    "criteria": {
+      "neverbelieveyou": "2024-08-23 23:34:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2024-08-23 23:23:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-08-24 00:01:00 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-08-23 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "voidscape:essence": {
+    "criteria": {
+      "essence": "2024-08-23 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-08-23 22:16:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "custom": "2024-08-24 00:32:55 +0000",
+      "log_spam_fixer": "2024-08-24 00:32:54 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
